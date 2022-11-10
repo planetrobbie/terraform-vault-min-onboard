@@ -1,3 +1,5 @@
 set*.sh
 .terraform
 terraform.tfstate*
+.terraform.lock.hcl
+approle/.terraform.lock.hcl
